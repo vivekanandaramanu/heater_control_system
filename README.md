@@ -70,7 +70,7 @@ heater_control_system/
 
 ### 1. Wokwi Simulation
 1. Open the Wokwi project link: **[Wokwi Simulation](https://wokwi.com/projects/439005910473186305)**
-2. Upload the compiled **`heater_control.elf`** from your `build/` folder.
+2. Upload the compiled **`heater_control.elf`** from your `build/` folder.  [Download heater_control.elf here](build/heater_control.elf)
 3. Select simulation mode via UART prompt:
    - Mode 1: Normal operation
    - Mode 2: Overheat scenario
