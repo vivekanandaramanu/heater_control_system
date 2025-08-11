@@ -1,0 +1,11 @@
+# See the build system documentation in IDF programming guide
+# for more information about component CMakeLists.txt files.
+
+idf_component_register(
+    SRCS
+        "main.c"
+        "gpio_driver.c"
+        "i2c_driver.c"
+        "heater_control.c"
+    INCLUDE_DIRS "."
+)
