@@ -114,6 +114,7 @@ stateDiagram-v2
 - *Wokwi Simulation:*  
   [Open Wokwi Project](https://wokwi.com/projects/439005910473186305)  
   *(Upload the heater_control.elf file from your build/ directory to run the simulation.)*
+   [Download heater_control.elf here](build/heater_control.elf)
 ---
 
 ## 🚀 Future Roadmap
