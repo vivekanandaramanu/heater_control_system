@@ -61,7 +61,6 @@ heater_control_system/
 - Firmware-based mock temperature patterns
 - Two selectable simulation modes
 - Real hardware build option (via CMake)
-- Documentation in PDF (Part 1 + Part 2)
 - Wokwi simulation link
 
 ---
@@ -116,8 +115,9 @@ stateDiagram-v2
   *(Upload the heater_control.elf file from your build/ directory to run the simulation.)*
    [Download heater_control.elf here](build/heater_control.elf)
 
-
-## Why an I²C Gyroscope (MPU6050) Appears in the Wokwi Schematic
+---
+## Note:
+**Why an I²C Gyroscope (MPU6050) Appears in the Wokwi Schematic**
 
 ### Context
 On real hardware, the ESP32 reads temperature from a **TMP117** digital sensor over **I²C** and controls the heater via GPIO.  
