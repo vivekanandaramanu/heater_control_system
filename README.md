@@ -105,10 +105,10 @@ stateDiagram-v2
 ## 📄 Documentation
 
 - *Heater Control System – Design Document (Part 1):*  
-  [Heater_Control_System_Design.pdf](https://drive.google.com/file/d/1xpcoW7fJzsuvvs_NyNr0kD80tkMxAuj-/view?usp=drivesdk)
+  [Heater_Control_System_Design.pdf](https://drive.google.com/file/d/1y_4IkvodrxfWfiWZawgoO4qnDz0wtLSf/view?usp=sharing)
 
 - *Heater Control System – Embedded Implementation (Part 2):*  
-  [Heater Control Embedded Implementation](https://drive.google.com/file/d/1xlTkeXc543P2LGpKaSJwQQFb-wdq7z9l/view?usp=drivesdk)
+  [Heater Control Embedded Implementation](https://drive.google.com/file/d/1tOvrgeXHGXuqrMpQEP41zsR4BT0QHOtQ/view?usp=sharing)
 
 - *Wokwi Simulation:*  
   [Open Wokwi Project](https://wokwi.com/projects/439005910473186305)  
