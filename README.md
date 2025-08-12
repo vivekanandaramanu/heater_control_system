@@ -24,8 +24,7 @@ heater_control_system/
 ├── CMakeLists.txt
 │
 ├── Heater_Control_System_Design.pdf   # Part 1: System design
-├── Heater_Control_Embedded_Implementation.pdf  
-#Part 2: Implementation
+├──Heater_Control_Embedded_Implementation.pdf   #Part 2: Implementation
 │
 └── README.md               # (this file)
 ```
