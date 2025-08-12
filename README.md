@@ -79,7 +79,7 @@ heater_control_system/
 
 ### 2. Real Hardware
 1. Connect ESP32 to TMP117 via I²C.
-2. In `CMakeLists.txt`, remove the `-DWOKWI_SIM` compile definition.
+2. In `CMakeLists.txt`, remove the `-WOKWI_SIM` compile definition.
 3. Rebuild and flash firmware.
 4. Monitor UART output for live readings.
 
