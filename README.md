@@ -152,6 +152,9 @@ We place an **MPU6050 (accelerometer/gyroscope)** on the I²C bus in Wokwi as a 
 target_compile_definitions(${COMPONENT_LIB} PRIVATE WOKWI_SIM=1)
 
 # For real hardware (comment out the line above or remove WOKWI_SIM)
+
+```
+
 ---
 
 ## 🚀 Future Roadmap
